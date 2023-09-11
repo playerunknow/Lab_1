@@ -21,5 +21,3 @@ if carry > 0:
 print(f"First array: {first_array}")
 print(f"Second array:{second_array}")
 print(f"Result: {result_array}")
-
-#вапвпапвап
